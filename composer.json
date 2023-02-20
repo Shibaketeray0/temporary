@@ -22,6 +22,7 @@
         "drupal/core-recommended": "^9",
         "drupal/field_validation": "^1.0@beta",
         "drupal/rules": "^3.0@alpha",
+        "drupal/token": "^1.11",
         "drush/drush": "^10.2"
     },
     "conflict": {
